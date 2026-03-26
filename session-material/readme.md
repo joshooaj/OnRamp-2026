@@ -29,13 +29,13 @@ Please ensure files are clearly named and organized.
 
 - Use descriptive folder and file names.
 - Avoid uploading large binaries unless necessary.
-- Do not include credentials, secrets, or sensitive information.
+- Don't include credentials, secrets, or sensitive information.
 - Test scripts before uploading.
-- Prefer Markdown for written instructions when possible.
+- Use Markdown for written instructions when possible.
 
 ## For participants
 
-Session content will appear here as presenters upload materials throughout the week.
+Session content appears as presenters upload materials throughout the week.
 
 If something is missing, check back later or ask in the OnRamp Slack channel.
 

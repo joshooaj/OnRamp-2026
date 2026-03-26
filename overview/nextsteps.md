@@ -2,8 +2,8 @@
 
 ![ms powershell](../images/powershell-hero.jpg)
 
-Thank you for joining us this year. We hope OnRamp was a valuable experience. It certainly was for
-us. Learning never stops, and everyone has something to contribute.
+Thank you for joining us this year. We hope OnRamp was a valuable experience. Learning never stops,
+and everyone has something to contribute.
 
 As you move forward, here are a few next steps:
 
@@ -11,7 +11,7 @@ As you move forward, here are a few next steps:
   projects.
 
 - **Share your knowledge:** Help others grow. Even showing a coworker a single command can make an
-  impact. Help others grow. Even showing a coworker a single command can make an impact.
+  impact. Help others grow.
 
 - **Keep learning:** OnRamp introduced several new topics. Pick one that excites you or supports
   your work and go deeper.

@@ -91,8 +91,6 @@ OnRamp delivers a supportive, hands-on learning experience for those entering Po
 Through structured training, guided labs, and access to the Summit community, participants gain
 practical skills, increased confidence, and a clear next step in their IT automation journey.
 
----
-
 <!-- link references -->
 
 [onramp-repo]: https://github.com/devops-collective-inc/OnRamp-2026

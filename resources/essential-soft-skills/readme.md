@@ -6,8 +6,8 @@ progression. This guide highlights the soft skills that matter most.
 
 ## Effective communication
 
-Clear communication is critical in IT, whether you're explaining technical concepts to non-technical
-stakeholders or collaborating with teammates.
+Clear communication is essential in IT, whether you're explaining technical concepts to
+non-technical stakeholders or collaborating with teammates.
 
 - Practice written and verbal communication
 - Adjust your message for your audience

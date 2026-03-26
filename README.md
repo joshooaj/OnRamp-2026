@@ -2,8 +2,9 @@
 
 ![The DevOps Collective logo.](images/devops-logo.png)
 
-The materials in this repository support the OnRamp program, part of the [PowerShell + DevOps Global
-Summit][pshsummit]. All content is provided solely for educational and learning purposes.
+The materials in this repository support the [OnRamp program][onramp-program], part of the
+PowerShell + DevOps Global Summit. All content is provided solely for educational and learning
+purposes.
 
 For more information about OnRamp, see the [OnRamp Participant Guide][participant-guide].
 
@@ -13,5 +14,5 @@ For more information about OnRamp, see the [OnRamp Participant Guide][participan
 
 <!-- link references -->
 
-[pshsummit]: https://powershellsummit.org/
+[onramp-program]: https://www.powershellsummit.org/on-ramp/
 [participant-guide]: overview/readme.md

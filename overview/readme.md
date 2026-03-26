@@ -1,6 +1,6 @@
 # OnRamp Participant Guide
 
-Welcome to OnRamp. This guide helps you navigate the core program materials and supporting
+Welcome to OnRamp. This guide helps you navigate the OnRamp program materials and supporting
 resources. Start here to understand the flow of the program, what you'll learn each day, and how to
 continue your journey after OnRamp.
 
